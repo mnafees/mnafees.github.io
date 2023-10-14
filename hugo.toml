@@ -1,0 +1,4 @@
+baseURL = 'https://nafe.es'
+languageCode = 'en-us'
+title = 'Mohammed Nafees'
+theme = 'risotto'
